@@ -14,3 +14,6 @@ Wir verwenden in der Vorlesung die Webseite [repl.it](https://repl.it/)
  * [refresher](https://github.com/tecladocode/python-refresher)
  * [bildungsserver.berlin-brandenburg.de](https://bildungsserver.berlin-brandenburg.de/inf-sek1-python-bb)
  * [Onlinekurs pythonjunior2020 - open.hpi.de](https://open.hpi.de/courses/pythonjunior2020)
+ 
+## Hardware
+[microbit](https://python.microbit.org/v/2.0)
