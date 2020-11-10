@@ -13,6 +13,9 @@ Wir verwenden in der Vorlesung die Webseite [repl.it](https://repl.it/)
  * [python.org](https://www.python.org/downloads/)
  * [git-scm.com](https://git-scm.com/)
  
+## Virtuelle Python-Umgebungen
+[Install pipenv](https://pipenv-fork.readthedocs.io/en/latest/install.html)
+ 
 ## Hardware
  * [microbit](https://python.microbit.org/v/2.0)
  
